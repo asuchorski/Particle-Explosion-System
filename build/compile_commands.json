@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/s5406272/programming-project-stickman7144/build",
+  "command": "/opt/rh/gcc-toolset-11/root/usr/bin/g++ -DADDLARGEMODELS -DGLM_ENABLE_EXPERIMENTAL -DOIIO_STATIC_DEFINE=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I. -I../ -IExplosionGUI_autogen/include -I../include -I/home/s5406272/NGL/include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include/Imath -isystem /opt/Qt/5.15.2/gcc_64/include -isystem /opt/Qt/5.15.2/gcc_64/include/QtWidgets -isystem /opt/Qt/5.15.2/gcc_64/include/QtGui -isystem /opt/Qt/5.15.2/gcc_64/include/QtCore -isystem /opt/Qt/5.15.2/gcc_64/./mkspecs/linux-g++ -g -pthread -fPIC -std=gnu++17 -o CMakeFiles/ExplosionGUI.dir/ExplosionGUI_autogen/mocs_compilation.cpp.o -c /home/s5406272/programming-project-stickman7144/build/ExplosionGUI_autogen/mocs_compilation.cpp",
+  "file": "/home/s5406272/programming-project-stickman7144/build/ExplosionGUI_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/s5406272/programming-project-stickman7144/build",
+  "command": "/opt/rh/gcc-toolset-11/root/usr/bin/g++ -DADDLARGEMODELS -DGLM_ENABLE_EXPERIMENTAL -DOIIO_STATIC_DEFINE=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I. -I../ -IExplosionGUI_autogen/include -I../include -I/home/s5406272/NGL/include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include/Imath -isystem /opt/Qt/5.15.2/gcc_64/include -isystem /opt/Qt/5.15.2/gcc_64/include/QtWidgets -isystem /opt/Qt/5.15.2/gcc_64/include/QtGui -isystem /opt/Qt/5.15.2/gcc_64/include/QtCore -isystem /opt/Qt/5.15.2/gcc_64/./mkspecs/linux-g++ -g -pthread -fPIC -std=gnu++17 -o CMakeFiles/ExplosionGUI.dir/src/main.cpp.o -c /home/s5406272/programming-project-stickman7144/src/main.cpp",
+  "file": "/home/s5406272/programming-project-stickman7144/src/main.cpp"
+},
+{
+  "directory": "/home/s5406272/programming-project-stickman7144/build",
+  "command": "/opt/rh/gcc-toolset-11/root/usr/bin/g++ -DADDLARGEMODELS -DGLM_ENABLE_EXPERIMENTAL -DOIIO_STATIC_DEFINE=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I. -I../ -IExplosionGUI_autogen/include -I../include -I/home/s5406272/NGL/include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include/Imath -isystem /opt/Qt/5.15.2/gcc_64/include -isystem /opt/Qt/5.15.2/gcc_64/include/QtWidgets -isystem /opt/Qt/5.15.2/gcc_64/include/QtGui -isystem /opt/Qt/5.15.2/gcc_64/include/QtCore -isystem /opt/Qt/5.15.2/gcc_64/./mkspecs/linux-g++ -g -pthread -fPIC -std=gnu++17 -o CMakeFiles/ExplosionGUI.dir/src/mainwindow.cpp.o -c /home/s5406272/programming-project-stickman7144/src/mainwindow.cpp",
+  "file": "/home/s5406272/programming-project-stickman7144/src/mainwindow.cpp"
+},
+{
+  "directory": "/home/s5406272/programming-project-stickman7144/build",
+  "command": "/opt/rh/gcc-toolset-11/root/usr/bin/g++ -DADDLARGEMODELS -DGLM_ENABLE_EXPERIMENTAL -DOIIO_STATIC_DEFINE=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I. -I../ -IExplosionGUI_autogen/include -I../include -I/home/s5406272/NGL/include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include/Imath -isystem /opt/Qt/5.15.2/gcc_64/include -isystem /opt/Qt/5.15.2/gcc_64/include/QtWidgets -isystem /opt/Qt/5.15.2/gcc_64/include/QtGui -isystem /opt/Qt/5.15.2/gcc_64/include/QtCore -isystem /opt/Qt/5.15.2/gcc_64/./mkspecs/linux-g++ -g -pthread -fPIC -std=gnu++17 -o CMakeFiles/ExplosionGUI.dir/src/NGLScene.cpp.o -c /home/s5406272/programming-project-stickman7144/src/NGLScene.cpp",
+  "file": "/home/s5406272/programming-project-stickman7144/src/NGLScene.cpp"
+},
+{
+  "directory": "/home/s5406272/programming-project-stickman7144/build",
+  "command": "/opt/rh/gcc-toolset-11/root/usr/bin/g++ -DADDLARGEMODELS -DGLM_ENABLE_EXPERIMENTAL -DOIIO_STATIC_DEFINE=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I. -I../ -IExplosionGUI_autogen/include -I../include -I/home/s5406272/NGL/include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include/Imath -isystem /opt/Qt/5.15.2/gcc_64/include -isystem /opt/Qt/5.15.2/gcc_64/include/QtWidgets -isystem /opt/Qt/5.15.2/gcc_64/include/QtGui -isystem /opt/Qt/5.15.2/gcc_64/include/QtCore -isystem /opt/Qt/5.15.2/gcc_64/./mkspecs/linux-g++ -g -pthread -fPIC -std=gnu++17 -o CMakeFiles/ExplosionGUI.dir/src/NGLSceneMouseControls.cpp.o -c /home/s5406272/programming-project-stickman7144/src/NGLSceneMouseControls.cpp",
+  "file": "/home/s5406272/programming-project-stickman7144/src/NGLSceneMouseControls.cpp"
+}
+]

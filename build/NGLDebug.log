@@ -1,0 +1,49 @@
+-------------------------------------------------------------------------------
+[07:44PM] NGL configured with 
+[07:44PM] OpenGL 4.6.0 NVIDIA 515.43.04
+[07:44PM] GLSL version 4.60 NVIDIA
+-------------------------------------------------------------------------------
+[07:44PM] creating empty ShaderProgram nglTextShader
+[07:44PM] just attached nglTextVertex to ngl::ShaderLib
+[07:44PM] just attached nglTextFragment to ngl::ShaderLib
+[07:44PM] Compiling Shader nglTextVertex
+[07:44PM] Compiling Shader nglTextFragment
+[07:44PM] nglTextVertex attached to program
+[07:44PM] nglTextFragment attached to program
+[07:44PM] Linking nglTextShader
+[07:44PM] linking Shader nglTextShader 
+FOUND UNIFORM BLOCKS 0
+FOUND UNIFORM BLOCKS 0
+[07:44PM] creating empty ShaderProgram nglColourShader
+[07:44PM] just attached nglColourVertex to ngl::ShaderLib
+[07:44PM] just attached nglColourFragment to ngl::ShaderLib
+[07:44PM] Compiling Shader nglColourVertex
+[07:44PM] Compiling Shader nglColourFragment
+[07:44PM] nglColourVertex attached to program
+[07:44PM] nglColourFragment attached to program
+[07:44PM] Linking nglColourShader
+[07:44PM] linking Shader nglColourShader 
+FOUND UNIFORM BLOCKS 0
+FOUND UNIFORM BLOCKS 0
+[07:44PM] creating empty ShaderProgram nglDiffuseShader
+[07:44PM] just attached nglDiffuseVertex to ngl::ShaderLib
+[07:44PM] just attached nglDiffuseFragment to ngl::ShaderLib
+[07:44PM] Compiling Shader nglDiffuseVertex
+[07:44PM] Compiling Shader nglDiffuseFragment
+[07:44PM] nglDiffuseVertex attached to program
+[07:44PM] nglDiffuseFragment attached to program
+[07:44PM] Linking nglDiffuseShader
+[07:44PM] linking Shader nglDiffuseShader 
+FOUND UNIFORM BLOCKS 0
+FOUND UNIFORM BLOCKS 0
+[07:44PM] creating empty ShaderProgram nglCheckerShader
+[07:44PM] just attached nglCheckerVertex to ngl::ShaderLib
+[07:44PM] just attached nglCheckerFragment to ngl::ShaderLib
+[07:44PM] Compiling Shader nglCheckerVertex
+[07:44PM] Compiling Shader nglCheckerFragment
+[07:44PM] nglCheckerVertex attached to program
+[07:44PM] nglCheckerFragment attached to program
+[07:44PM] Linking nglCheckerShader
+[07:44PM] linking Shader nglCheckerShader 
+FOUND UNIFORM BLOCKS 0
+FOUND UNIFORM BLOCKS 0
