@@ -3,7 +3,17 @@
 ## Overview
 
 + ![image missing](images/UI_Banner.png)
-
++ 
++ ![image missing](images/ParticleUI_1.png)
++ 
++ ![image missing](images/ParticleUI_2.png)
++ 
++ ![image missing](images/ParticleUI_3.png)
++ 
++ ![image missing](images/ParticleUI_4.png)
++ 
++ ![image missing](images/ParticleUI_5.png)
++ 
 The goal of this project is to create a particle simulation in C++ using the ngl graphics library to generate various types of explosions. The particle simulation will be used to create visually stunning explosions that can be used in various applications such as games, special effects for film, and simulations.
 
 The project will involve creating a particle system that is capable of simulating the motion and behavior of individual particles. This will include simulating the effects of gravity, acceleration, initial speed and particle life. The particle system will be designed to be flexible, allowing for different types of explosions to be created by adjusting parameters such as the number of particles, their initial velocity, and the forces acting on them.
