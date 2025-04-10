@@ -1,26 +1,25 @@
 # Adrian Suchorski (s5406272@bournemouth.ac.uk) Assignment Particle Explosions
 
 ## Overview
+The goal of this project is to create a particle simulation in C++ using the NGL graphics library to generate various types of explosions. The particle simulation will be used to create visually stunning explosions that can be used in various applications such as games, special effects for film, and simulations. The UI implemented using QT
 
 + ![image missing](images/UI_Banner.png)
-+ 
-+ ![image missing](images/ParticleUI_1.png)
-+ 
-+ ![image missing](images/ParticleUI_2.png)
-+ 
-+ ![image missing](images/ParticleUI_3.png)
-+ 
-+ ![image missing](images/ParticleUI_4.png)
-+ 
-+ ![image missing](images/ParticleUI_5.png)
-+ 
-The goal of this project is to create a particle simulation in C++ using the ngl graphics library to generate various types of explosions. The particle simulation will be used to create visually stunning explosions that can be used in various applications such as games, special effects for film, and simulations.
-
+  
 The project will involve creating a particle system that is capable of simulating the motion and behavior of individual particles. This will include simulating the effects of gravity, acceleration, initial speed and particle life. The particle system will be designed to be flexible, allowing for different types of explosions to be created by adjusting parameters such as the number of particles, their initial velocity, and the forces acting on them.
 
++ ![image missing](images/ParticleUI_1.png)
+  
 To visualize the explosion, the ngl graphics library will be used to create a 3D environment where the particles can be rendered. The project will be implemented in C++ using object-oriented programming principles to make the code reusable and easy to maintain. The code will be modular and well-documented to make it easy for other developers to extend or modify the particle simulation.
 
++ ![image missing](images/ParticleUI_2.png)
+
 Overall, this project aims to create a flexible and realistic particle simulation that can generate different types of explosions using the ngl graphics library. The end result will be a powerful tool that can be used in various applications to create stunning visual effects.
+
++ ![image missing](images/ParticleUI_3.png)
+  
++ ![image missing](images/ParticleUI_4.png)
+  
++ ![image missing](images/ParticleUI_5.png)
 
 ## Program Design
 
